@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to SPS Bank loans related prod APIs "
+  message: "Welcome to SPS Bank loans related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@spsbank.com"
   onCallSupport:
     - (723) 656-8709
+
     - (156) 342-0956
